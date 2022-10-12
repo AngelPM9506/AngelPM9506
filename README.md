@@ -16,8 +16,6 @@
   Si quieres contactar conmigo mándame un correo electrónico o visítame en linkedin
 </p>
 
- [] [parra_mondragon@live.com](parra_mondragon@live.com)
-
  [] [Linkedin](https://www.linkedin.com/in/miguel-angel-p-1404a4120/)
 
 <hr/>
@@ -37,8 +35,6 @@ To date I have three professional degree only two with professional id which you
   if you want to contact with me send me an email or visitme on Linkedin 
 </p>
 
- [] [parra_mondragon@live.com](parra_mondragon@live.com)
- 
  [] [Linkedin](https://www.linkedin.com/in/miguel-angel-p-1404a4120/)
 
 <hr/>
