@@ -3,7 +3,9 @@
 <h1 align="center"> Hola, Espero que tengas un excelente día <br/> Yo soy Miguel Angel P.M. </h1>
 <h3 align="center"> Hi, I hope you hava a great day Cx <br/> I`m Miguel Angel P.M. </h3>
 
+<hr/>
 
+## ⚙️ &nbsp;Analisis de GitHub
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
