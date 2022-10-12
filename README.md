@@ -1,9 +1,4 @@
 <a name="readme-top"></a>
-<p align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngelPM9506&repo=github-readme-stats&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
 <h1 align="center"> Hola, Espero que tengas un excelente día Cx <br/> Yo soy Miguel Angel P.M. </h1>
 
