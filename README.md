@@ -1,4 +1,10 @@
 <a name="readme-top"></a>
+<p align="center">
+  <a href="https://github.com/AngelPM9506&">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngelPM9506&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngelPM9506&layout=compact&langs_count=8&theme=merko"/>
+  </a>
+</p>
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
 <h1 align="center"> Hola, Espero que tengas un excelente día Cx <br/> Yo soy Miguel Angel P.M. </h1>
 
@@ -41,10 +47,3 @@ To date I have three professional degree only two with professional id which you
 
 ## ⚙️ &nbsp;Analisis de GitHub
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AngelPM9506&">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngelPM9506&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngelPM9506&layout=compact&langs_count=8&theme=merko"/>
-</a>
-</p>
